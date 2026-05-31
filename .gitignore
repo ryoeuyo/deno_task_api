@@ -1,0 +1,17 @@
+# dependencies
+node_modules/
+
+# env / secrets
+.env
+.env*.local
+
+# next.js
+frontend/.next/
+frontend/out/
+frontend/next-env.d.ts
+
+# build / cache
+*.tsbuildinfo
+
+# os
+.DS_Store
